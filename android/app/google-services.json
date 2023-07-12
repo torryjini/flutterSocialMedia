@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828300291753",
+    "project_id": "biblechallenge-81cae",
+    "storage_bucket": "biblechallenge-81cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828300291753:android:7b529558687c4d31c443b8",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828300291753-l27seqg2ql983n6ggu7h0lcpr95o2nfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEm5sLVp1oMA1lD8V9--njigpHsFhuX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828300291753-l27seqg2ql983n6ggu7h0lcpr95o2nfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
